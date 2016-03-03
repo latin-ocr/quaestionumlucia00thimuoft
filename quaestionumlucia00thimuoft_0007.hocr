@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionumlucia00thimuoft_0007.png"; bbox 0 0 1924 3063; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 360 1304 1461 1514">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 360 1304 1461 1514">
+     <span class='ocr_line' id='line_1_1' title="bbox 360 1304 1461 1379; baseline -0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 360 1304 789 1377; x_wconf 78' lang='lat' dir='ltr'><strong>CAROLO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 874 1304 1461 1379; x_wconf 72' lang='lat' dir='ltr'><strong>DILTHEYO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 444 1429 1080 1514; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 444 1429 447 1433; x_wconf 67' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 747 1460 1080 1514; x_wconf 74' lang='lat' dir='ltr'><strong>SACRUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
